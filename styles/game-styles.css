@@ -1,0 +1,11 @@
+.game-window {
+  position: relative;
+  background-color: beige;
+  height: 200px;
+}
+
+.main-character {
+  position: absolute;
+  width: 100px;
+  top: 100px;
+}
