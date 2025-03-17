@@ -1,0 +1,68 @@
+.keyboard {
+  margin-left: 50px;
+}
+
+.keys-line {
+  margin: 3px;
+  
+}
+.interval {
+  display: inline-block;
+  width: 20px;
+}
+
+.key {
+  border: 1px solid black;
+  display: inline-block;
+  margin: 1px;
+  border-radius: 4px;
+  text-align: center;
+  line-height: 40px;
+  width: 40px;
+  height: 40px;
+}
+
+.key-pressed {
+  box-shadow: inset 1px 1px 10px 2px rgb(69, 92, 218);
+}
+
+.key-space {
+  border: 1px solid black;
+  display: inline-block;
+  margin: 1px;
+  border-radius: 4px;
+  text-align: center;
+  line-height: 40px;
+  width: 232px;
+  height: 40px;
+}
+
+/* pinkie finger - мизинец */
+.key-pinkie {
+  background: rgba(244, 255, 193);
+}
+
+/* ring finger - безымянный */
+.key-ring {
+  background: rgb(238, 193, 255);
+}
+
+/* middle finger - средний */
+.key-middle {
+  background: rgb(193, 249, 255);
+}
+
+/* left index finger - указательный левый */
+.key-left-index {
+  background: rgb(255, 229, 193);
+}
+
+/* right index finger - указательный правый */
+.key-right-index {
+  background: rgb(193, 255, 221);
+}
+
+/* thumb finger - большой палец */
+.key-thumb {
+  background: rgb(255, 193, 193);
+}

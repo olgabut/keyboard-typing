@@ -1,0 +1,12 @@
+.main-window {
+  border: 1px solid rgb(194, 67, 67);
+
+}
+
+h1 {
+  text-align: center;
+}
+.game-window {
+  background-color: beige;
+  height: 50px;
+}
